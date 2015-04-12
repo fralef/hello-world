@@ -1,1 +1,3 @@
 # hello-world
+Mon premier texte sur GitHub
+Jespère que les accents fonctionnent bien! É À etc...
